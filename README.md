@@ -41,7 +41,7 @@ Für Anfragen zur Nutzung kontaktieren Sie mich bitte unter:
 
 ## Technische Hinweise
 
-- Erstellt mit: Python 3.X, Mayavi
+- Erstellt mit: Python 3.9.12, Mayavi 4.8.0
 - Exportformate: `.gif`
 
 ---
